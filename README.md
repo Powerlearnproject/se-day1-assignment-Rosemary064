@@ -53,42 +53,42 @@ User-Focused Development: Projects that require user feedback to improve the pro
 For example, when developing a social media platform, functionality may alter in response to user testing and market trends.
 
 Comparison: 
-Project Flexibility.
+1. Project Flexibility.
 Waterfall: Ideal for projects with specific needs and a well-defined scope.
 Agile is ideal for projects with changing requirements and the need for quick adaption.
 
-Process Structure:
+2. Process Structure:
 Waterfall: Uses a linear, phase-based technique with no overlap.
 Agile: Uses an iterative cycle in which development, testing, and feedback occur simultaneously.
 
-Customer involvement:
+3. Customer involvement:
 Waterfall: Customer participation is minimal following the initial requirements phase.
 Agile development requires a high level of client interaction throughout the process.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 1. Software Developer Role and Responsibilities:
-Coding and implementation: Create clean, efficient, and maintainable code based on design criteria and project needs.
-Designing Software Solutions: Work with architects and team members to develop technical designs that meet business requirements.
-Debugging and troubleshooting: Identify and resolve problems or flaws in the code, optimizing performance as needed.
-Collaboration among Team Members: Collaborate with other developers, QA engineers, and project managers to determine needs and deliver software enhancements.
-Testing and Code Review: Run unit tests to verify code quality and participate in code reviews to stay current with best practices.
-Document the code, development procedures, and technical specifications for future use and maintenance.
+a) Coding and implementation: Create clean, efficient, and maintainable code based on design criteria and project needs.
+b) Designing Software Solutions: Work with architects and team members to develop technical designs that meet business requirements.
+c) Debugging and troubleshooting: Identify and resolve problems or flaws in the code, optimizing performance as needed.
+d) Collaboration among Team Members: Collaborate with other developers, QA engineers, and project managers to determine needs and deliver software enhancements.
+e) Testing and Code Review: Run unit tests to verify code quality and participate in code reviews to stay current with best practices.
+f) Document the code, development procedures, and technical specifications for future use and maintenance.
 
-2. Quality Assuarance Engineer Roles and Responsibilities:
-Testing and Validation: Create and execute test plans, test cases, and automated scripts to ensure that the program satisfies requirements and performs properly.
-Defect Identification and Reporting: Identify, document, and track software bugs while working with developers to fix issues promptly.
-Regression testing ensures that new features or bug patches do not have a detrimental impact on existing functionality.
-Performance and Load Testing: Evaluate how the software operates under high usage or stress, and make suggestions for performance enhancements.
-Test Environment Setup: Configure and maintain testing environments such as databases, test data, and deployment pipelines.
-Continuous Improvement: Help develop testing procedures, tools, and methodologies to improve software quality.
+3. Quality Assuarance Engineer Roles and Responsibilities:
+a) Testing and Validation: Create and execute test plans, test cases, and automated scripts to ensure that the program satisfies requirements and performs properly.
+b) Defect Identification and Reporting: Identify, document, and track software bugs while working with developers to fix issues promptly.
+c) Regression testing ensures that new features or bug patches do not have a detrimental impact on existing functionality.
+d) Performance and Load Testing: Evaluate how the software operates under high usage or stress, and make suggestions for performance enhancements.
+e) Test Environment Setup: Configure and maintain testing environments such as databases, test data, and deployment pipelines.
+f) Continuous Improvement: Help develop testing procedures, tools, and methodologies to improve software quality.
 
-3. Project Manager's Roles and Responsibilities:
-Planning and scheduling: Create a project plan that specifies activities, dates, resource allocation, and deliverables. Establish milestones and track project progress.
-Requirement Gathering: Collaborate with stakeholders to define and document project requirements while ensuring alignment with corporate objectives.
-Team Coordination and Communication: Act as the primary point of contact for team members and stakeholders to improve communication and collaboration.
-Risk management entails identifying potential risks, developing mitigation techniques, and proactively addressing challenges to keep the project on schedule.
-Budget and Resource Management: Keep track of project budgets and resource allocation, making adjustments as appropriate to keep within scope and cost restrictions.
-Quality Assurance Oversight: Ensure that quality standards are met and that the finished product meets stakeholder expectations.
+4. Project Manager's Roles and Responsibilities:
+a) Planning and scheduling: Create a project plan that specifies activities, dates, resource allocation, and deliverables. Establish milestones and track project progress.
+b) Requirement Gathering: Collaborate with stakeholders to define and document project requirements while ensuring alignment with corporate objectives.
+c) Team Coordination and Communication: Act as the primary point of contact for team members and stakeholders to improve communication and collaboration.
+d) Risk management entails identifying potential risks, developing mitigation techniques, and proactively addressing challenges to keep the project on schedule.
+e) Budget and Resource Management: Keep track of project budgets and resource allocation, making adjustments as appropriate to keep within scope and cost restrictions.
+f) Quality Assurance Oversight: Ensure that quality standards are met and that the finished product meets stakeholder expectations.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 a) The importance of integrated development environments (IDEs)
@@ -177,7 +177,7 @@ Improved Prompt
 "Explain three major advancements in renewable energy technology over the past decade, focusing on their impact on reducing carbon emissions."
 
 Why is the Improved Prompt More Effective
-Specificity: The enhanced prompt indicates the technology (renewable energy) as well as the focus. This minimizes uncertainty and narrows the scope, allowing the AI to give more relevant and precise information.
-Clear instructions: The question specifically requests "three major advancements," signaling to the AI how much information to deliver. The original question, "Tell me about technology," is too broad, and the AI might deliver knowledge on everything from cellphones to artificial intelligence, which may not be relevant to the user's intentions.
-Conciseness: The enhanced prompt is brief but complete, allowing the AI to understand and respond appropriately.
-Focused Outcome: By describing the desired outcome (the influence on lowering carbon emissions), the prompt directs the AI to focus on the most important aspects of the topic, resulting in a more valuable and insightful response.
+1. Specificity: The enhanced prompt indicates the technology (renewable energy) as well as the focus. This minimizes uncertainty and narrows the scope, allowing the AI to give more relevant and precise information.
+2. Clear instructions: The question specifically requests "three major advancements," signaling to the AI how much information to deliver. The original question, "Tell me about technology," is too broad, and the AI might deliver knowledge on everything from cellphones to artificial intelligence, which may not be relevant to the user's intentions.
+3. Conciseness: The enhanced prompt is brief but complete, allowing the AI to understand and respond appropriately.
+4. Focused Outcome: By describing the desired outcome (the influence on lowering carbon emissions), the prompt directs the AI to focus on the most important aspects of the topic, resulting in a more valuable and insightful response.
